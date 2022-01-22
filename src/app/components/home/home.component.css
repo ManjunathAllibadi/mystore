@@ -33,6 +33,7 @@ iframe{
     box-shadow: 10px 10px 15px 3px grey;
     border: 1px solid rgba(233, 233, 15, 0.549);
     border-radius: 3%;
+    
 }
 
 #all-mat-card-header{
@@ -63,17 +64,17 @@ iframe{
     height: 60px;
     border-radius: 30px;
   }
-
-@media screen and (max-width:500px) {
+/* 
+@media screen and (max-width:412px) {
     #item {
-        margin-left: 5px;
-        width: 100px;
+        margin-left: 25px !important;
+        width: 100px !important;
     }
 
     #all-mat-card-header{
-        margin-left: 9px;
+        margin-left: 10px !important;
     }
    
 
-}
+} */
 
